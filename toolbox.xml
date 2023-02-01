@@ -1,4 +1,4 @@
-<category name="BitBot XL" colour="#000000" iconclass="blocklyTreeIconCustom robot">
+<category name="BitBot XL" colour="#000000" css-icon="customIcon fad fa-car">
 <label text="BitBot XL" web-class="myLabelStyle"></label>
  <block type="import_bitbot"></block>
  <block type="bitbot_init"></block>
